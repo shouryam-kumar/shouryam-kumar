@@ -19,8 +19,7 @@
 - 👯 I’m *looking to collaborate* on **JavaScript📜 projects.**
 - 🤔 I’m looking for *help* with **wifi connection 🌐**
 - 💬 *Ask me* about **why do I think aliens 👽 exist.**
-- 😄 Pronouns: [*He/Him*](https://pronoun.is/he)
-- ⚡ Fun fact: I love to draw and play guitar.
+- ⚡ Fun fact: I love to travel and explore.
 
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :

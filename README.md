@@ -56,7 +56,7 @@ A passionate blockchain developer and advocate with hands-on experience in organ
 
 <h2>🎓 Education</h2>
 
-B.Tech in Engineering - Lakshmi Narain College of Technology, Bhopal (Graduating June 2024)
+B.Tech - Lakshmi Narain College of Technology, Bhopal (June 2024)
 
 <h2>📬 Let’s Connect</h2>
 

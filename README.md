@@ -1,50 +1,68 @@
-### Hi there 👋
+<h1>Shouryam Kumar - Blockchain Enthusiast & Community Builder</h1>
 
-### Hi there, I'm Shouryam 👋
+Welcome to my GitHub profile! 🚀 I’m Shouryam Kumar, a tech-savvy innovator dedicated to building decentralized solutions and empowering communities through blockchain education and events.
 
-<p>
-  <em>
-    I am a 3rd Year undergraduate from <a href="https://lnct.ac.in/"> <b>Lakshmi Narain College of Technology</b>, Bhopal </a>.  
-    A budding <b>Software Developer</b> 👨🏼‍💻, <b>community evangelist<b> 🕵🏼, <b>Teacher<b> 🧑🏼‍🏫 and a <b>web3 Enthusiast 🎨,  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> 🚀and 
-    <b>excel.</b> 🏅
-  </em>  
-</p>
- 
- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786+%20Lines%20of%20code-blue)
+<h2>🚀 About Me</h2>
 
-- 🔭 I’m currently working on **My Self🙃**
-- 🌱 I’m currently learning **to survive😵‍💫**
-- 👯 I’m *looking to collaborate* on **JavaScript📜 projects.**
-- 🤔 I’m looking for *help* with **wifi connection 🌐**
-- 💬 *Ask me* about **why do I think aliens 👽 exist.**
-- ⚡ Fun fact: I love to travel and explore.
+A passionate blockchain developer and advocate with hands-on experience in organizing tech events, fostering collaborations, and mentoring aspiring developers. Whether it’s deploying smart contracts, managing communities, or hosting workshops, I thrive on creating impact in the web3 ecosystem.
 
 
-#### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
+<h2>💼 Professional Experience</h2>
 
+<h3>🌍 Operations Lead | The Phoenix Guild (Remote)</h3>
 
-#### 👨🏻‍💻 Familiar With :
+<em>Jun 2024 – Dec 2024</em>
 
+- Commanded operations across 10+ vibrant city-based chapters, fueling community growth and engagement.
 
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+- Orchestrated dynamic roadshows and partnered with industry-leading protocols to amplify visibility and impact.
 
-<img src="https://github-profile-trophy.vercel.app/?username=shouryam-kumar&theme=onedark&column=3&margin-w=15&margin-h=15">
- 
-    
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shouryam-kumar&theme=tokyonight&count_private=true)
+- Engineered streamlined budgeting processes and ensured seamless execution of events.
 
-![Shouryam's github stats](https://github-readme-stats.vercel.app/api?username=shouryam-kumar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-    
-![Shouryam's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=shouryam-kumar)
-    
-<details>
-<summary>Detailed Summary</summary>
-<br>
-    
-![Metrics](https://metrics.lecoq.io/shouryam-kumar?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
-    
-</details>
+- Cultivated self-sustaining communities by empowering local leaders and fostering long-term scalability.
+
+<h3>🌟 Chapter Director | The Phoenix Guild (Bhopal)</h3>
+
+<em>Jul 2023 – Jun 2024</em>
+
+- Pioneered blockchain awareness initiatives, taking the movement to 3 cities through immersive workshops and meetups.
+
+- Secured strategic partnerships with major protocols like Filecoin and Ethereum Foundation, unlocking growth opportunities.
+
+- Forged alliances with local developer groups and anchored key collaborations, including Starknet India 2024.
+
+<h3>📊 Graph Advocate | The Graph</h3>
+
+<em>Feb 2023 – Feb 2024</em>
+
+- Evangelized decentralized data querying by crafting engaging tutorials, technical threads, and hands-on workshops.
+
+- Enabled developers to seamlessly integrate The Graph into their projects, enhancing scalability and performance.
+
+<h2>🎤 Speaker & Mentorship Highlights</h2>
+
+<h3>IIIT Delhi | EF Bootcamp (Aug 2023)</h3>
+
+- Delivered an electrifying 2-day bootcamp for 100+ participants, unraveling blockchain fundamentals and Ethereum architecture.
+
+- Guided participants through live coding sessions on Solidity, smart contracts, and deployment workflows.
+
+<h3>Dayanand Sagar College, Bangalore | 2-Day Bootcamp (May 2020)</h3>
+
+- Simplified JavaScript basics and blockchain deployment techniques, captivating 100+ budding developers.
+
+- Explored advanced topics like Account Abstraction and automation tools, sparking curiosity and hands-on experimentation.
+
+<h2>🎓 Education</h2>
+
+B.Tech in Engineering - Lakshmi Narain College of Technology, Bhopal (Graduating June 2024)
+
+<h2>📬 Let’s Connect</h2>
+
+Email: shouryam1508@gmail.com
+
+LinkedIn: linkedin.com/in/shouryam-kumar
+
+GitHub: github.com/shouryam-kumar
+
